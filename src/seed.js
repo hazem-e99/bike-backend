@@ -647,7 +647,7 @@ async function seed() {
     },
     {
       key: "hybrid-bike-banner",
-      label: "الدراجات الهجين",
+      label: "دراجات هجين",
       category: "hybrid",
       accentColor: "#10B981",
       order: 3,
